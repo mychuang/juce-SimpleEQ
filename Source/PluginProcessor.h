@@ -21,6 +21,10 @@ public:
     ~SimpleEQAudioProcessor() override;
 
     //==============================================================================
+    /*
+    main function 1:prepareToPlay
+     it's about to start playback
+     */
     void prepareToPlay (double sampleRate, int samplesPerBlock) override;
     void releaseResources() override;
 
@@ -28,6 +32,13 @@ public:
     bool isBusesLayoutSupported (const BusesLayout& layouts) const override;
    #endif
 
+    /*
+    main function 2:processBlock
+      when you hit the play button in the transport control,
+      the host starts sending buffers at a regular rate into your plug-in,
+      and it's your plug-in job to give it back any finished audio
+      that is done processing.
+     */
     void processBlock (juce::AudioBuffer<float>&, juce::MidiBuffer&) override;
 
     //==============================================================================

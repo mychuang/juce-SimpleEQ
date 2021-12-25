@@ -47,3 +47,14 @@ JuceLibraryCode/include_juce_gui_extra.mm
 JuceLibraryCode/JuceHeader.h
 JuceLibraryCode/JucePluginDefines.h
 JuceLibraryCode/ReadMe.txt
+Builds/MacOSX/SimpleEQ.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+Builds/MacOSX/SimpleEQ.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+Builds/MacOSX/SimpleEQ.xcodeproj/project.xcworkspace/xcuserdata/miller.xcuserdatad/UserInterfaceState.xcuserstate
+Builds/MacOSX/SimpleEQ.xcodeproj/xcuserdata/miller.xcuserdatad/xcschemes/xcschememanagement.plist
+Builds/MacOSX/build/Debug/libSimpleEQ.a
+Builds/MacOSX/build/Debug/SimpleEQ.vst3
+Builds/MacOSX/build/Debug/SimpleEQ.app/Contents/Info.plist
+Builds/MacOSX/build/Debug/SimpleEQ.app/Contents/PkgInfo
+Builds/MacOSX/build/Debug/SimpleEQ.app/Contents/MacOS/SimpleEQ
+Builds/MacOSX/build/Debug/SimpleEQ.app/Contents/Resources/RecentFilesMenuTemplate.nib
+Builds/MacOSX/build/Debug/SimpleEQ.app/Contents/_CodeSignature/CodeResources
