@@ -58,3 +58,8 @@ Builds/MacOSX/build/Debug/SimpleEQ.app/Contents/PkgInfo
 Builds/MacOSX/build/Debug/SimpleEQ.app/Contents/MacOS/SimpleEQ
 Builds/MacOSX/build/Debug/SimpleEQ.app/Contents/Resources/RecentFilesMenuTemplate.nib
 Builds/MacOSX/build/Debug/SimpleEQ.app/Contents/_CodeSignature/CodeResources
+Builds/MacOSX/SimpleEQ.xcodeproj/xcshareddata/xcschemes/SimpleEQ - VST3.xcscheme
+Builds/MacOSX/SimpleEQ.xcodeproj/xcuserdata/miller.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+Builds/MacOSX/build/Debug/SimpleEQ.component
+JuceLibraryCode/include_juce_dsp.cpp
+JuceLibraryCode/include_juce_dsp.mm
